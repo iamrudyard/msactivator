@@ -1,4 +1,6 @@
 Windows &amp; Office Activator using Script
+<i>(less detection on Antivirus)</i>
+
 
 1. Open Windows Powershell
 
