@@ -15,16 +15,20 @@ irm https://get.activated.win | iex
 
 <br/>
 <br/>
+<br/>
+<br/>
 
-Office Installer Link:
+Office 365 Installer Link:
 
 O365ProPlusRetail\
 Apps [Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive]\
 Link: https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x64&language=en-us&version=O16GA\
 
-<p/>
-<p/>
+<br/>
+<br/>
+
+
 O365EduCloudRetail\
 Apps [Excel, OneNote, PowerPoint, Word, OneDrive]\
-Link: https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x64&language=en-us&version=O16GA\
+Link: https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x64&language=en-us&version=O16GA 
 
