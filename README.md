@@ -1,13 +1,27 @@
 Windows &amp; Office Activator using Script
 <i>(less detection on Antivirus)</i>
 
-
-1. Open Windows Powershell
-
-2. Copy this.
+1.  Copy this.
 ```
 irm https://get.activated.win | iex
 ```
-3. For Selection
+2. Open Windows Powershell [ Run as Admin]
+3. Paste the code.
+4. Click Yes
+5. In Command Propmpt Menu Selction,
    <p>1 for Windows Activation</p>
    <p>2 then 1 for permanent activation of Any Office version</p>
+
+
+
+
+Office Installer Link:
+
+O365ProPlusRetail 
+Apps [Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive]
+Link: https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x64&language=en-us&version=O16GA
+
+
+O365EduCloudRetail
+Apps [Excel, OneNote, PowerPoint, Word, OneDrive]
+https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x64&language=en-us&version=O16GA
