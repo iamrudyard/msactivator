@@ -5,6 +5,10 @@ Windows &amp; Office Activator using Script
 ```
 irm https://get.activated.win | iex
 ```
+if above is blocked try this:
+```
+iex (curl.exe -s --doh-url https://1.1.1.1/dns-query https://get.activated.win | Out-String)
+```
 2. Open Windows Powershell [ Run as Admin]
 3. Paste the code.
 4. Click Yes
